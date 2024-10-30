@@ -1,0 +1,16 @@
+{
+    "total_runtime": 46.206881523132324,
+    "num_documents": 1,
+    "input_load_time": 0,
+    "workflows": {
+        "create_summarized_entities": {
+            "overall": 43.222848415374756,
+            "0_summarize_descriptions": 43.21731781959534
+        },
+        "create_base_entity_graph": {
+            "overall": 1.020313024520874,
+            "0_cluster_graph": 1.0033843517303467,
+            "1_select": 0.009865522384643555
+        }
+    }
+}
